@@ -1,0 +1,38 @@
+2025-05-01 19:12:58 - Script started
+2025-05-01 19:12:58 - Database connected successfully
+2025-05-01 19:12:58 - Invalid request method: GET
+2025-05-01 19:14:32 - Script started
+2025-05-01 19:14:32 - Database connected successfully
+2025-05-01 19:14:32 - Received POST data: {"name":"dimas","email":"raihanzakym@gmail.com","subject":"media partner","message":"fdfdf"}
+2025-05-01 19:14:32 - Table 'contact_messages' exists
+2025-05-01 19:14:32 - Insert successful
+2025-05-01 19:19:38 - Script started
+2025-05-01 19:19:38 - Database connected successfully
+2025-05-01 19:19:38 - Received POST data: {"name":"dimas","email":"123@gmail.com","subject":"jgjgj","message":"zczczc"}
+2025-05-01 19:19:38 - Table 'contact_messages' exists
+2025-05-01 19:19:38 - Insert successful
+2025-05-01 19:20:24 - Script started
+2025-05-01 19:20:24 - Database connected successfully
+2025-05-01 19:20:24 - Received POST data: {"name":"dimas","email":"raihanzakym@gmail.com","subject":"media partner","message":"adda"}
+2025-05-01 19:20:24 - Table 'contact_messages' exists
+2025-05-01 19:20:24 - Insert successful
+2025-05-01 19:20:31 - Script started
+2025-05-01 19:20:31 - Database connected successfully
+2025-05-01 19:20:31 - Received POST data: {"name":"dimas","email":"hydro75@box.rekadev.org","subject":"media partner","message":"adadadad"}
+2025-05-01 19:20:31 - Table 'contact_messages' exists
+2025-05-01 19:20:31 - Insert successful
+2025-05-01 19:20:44 - Script started
+2025-05-01 19:20:44 - Database connected successfully
+2025-05-01 19:20:44 - Received POST data: {"name":"raihan zaky","email":"raihanzky@student.telkomuniversity.ac.id","subject":"media partner","message":"addadad"}
+2025-05-01 19:20:44 - Table 'contact_messages' exists
+2025-05-01 19:20:44 - Insert successful
+2025-05-01 19:22:54 - Script started
+2025-05-01 19:22:54 - Database connected successfully
+2025-05-01 19:22:54 - Received POST data: {"name":"raihan zaky","email":"raihanzakym@gmail.com","subject":"media partner","message":"addada"}
+2025-05-01 19:22:54 - Table 'contact_messages' exists
+2025-05-01 19:22:54 - Insert successful
+2025-05-23 12:09:04 - Script started
+2025-05-23 12:09:04 - Database connected successfully
+2025-05-23 12:09:04 - Received POST data: {"name":"nandito","email":"bangdito87@gmail.com","subject":"p","message":"p"}
+2025-05-23 12:09:04 - Table 'contact_messages' exists
+2025-05-23 12:09:04 - Insert successful

@@ -185,6 +185,10 @@ while ($row = mysqli_fetch_assoc($result)) {
                         <i class="fas fa-images text-yellow-500 mr-3"></i>
                         <span class="text-gray-700">Kelola Galeri</span>
                     </a>
+                    <a href="departemen/" class="flex items-center justify-center p-4 bg-orange-50 rounded-lg hover:bg-orange-100 transition-colors">
+                        <i class="fas fa-building text-orange-500 mr-3"></i>
+                        <span class="text-gray-700">Kelola Departemen</span>
+                    </a>
                 </div>
             </div>
         </main>

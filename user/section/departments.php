@@ -9,9 +9,9 @@
             <!-- Department Card 1 -->
             <div class="program-card bg-white rounded-lg shadow-lg overflow-hidden group" data-aos="fade-up" data-aos-delay="100">
                 <div class="bg-primary h-2 group-hover:bg-secondary transition-colors duration-300"></div>
-                <div class="p-6 relative">
+                <a href="section/department_detail.php?kode_departemen=humas" class="block"><div class="p-6 relative">
                     <div class="absolute top-0 right-0 mt-4 mr-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                        <i class="fas fa-arrow-right text-secondary"></i>
+                        <i class="fas fa-arrow-right text-secondary"></i></a>
                     </div>
                     <div class="program-icon-wrapper mb-4 relative">
                         <div class="absolute inset-0 bg-secondary opacity-0 group-hover:opacity-10 rounded-full transition-opacity duration-300"></div>
@@ -27,9 +27,9 @@
             <!-- Department Card 2 -->
             <div class="program-card bg-white rounded-lg shadow-lg overflow-hidden group" data-aos="fade-up" data-aos-delay="200">
                 <div class="bg-primary h-2 group-hover:bg-secondary transition-colors duration-300"></div>
-                <div class="p-6 relative">
+                <a href="section/department_detail.php?kode_departemen=danus" class="block"><div class="p-6 relative">
                     <div class="absolute top-0 right-0 mt-4 mr-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                        <i class="fas fa-arrow-right text-secondary"></i>
+                        <i class="fas fa-arrow-right text-secondary"></i></a>
                     </div>
                     <div class="program-icon-wrapper mb-4 relative">
                         <div class="absolute inset-0 bg-secondary opacity-0 group-hover:opacity-10 rounded-full transition-opacity duration-300"></div>
@@ -45,9 +45,9 @@
             <!-- Department Card 3 -->
             <div class="program-card bg-white rounded-lg shadow-lg overflow-hidden group" data-aos="fade-up" data-aos-delay="300">
                 <div class="bg-primary h-2 group-hover:bg-secondary transition-colors duration-300"></div>
-                <div class="p-6 relative">
+                <a href="section/department_detail.php?kode_departemen=psdm" class="block"><div class="p-6 relative">
                     <div class="absolute top-0 right-0 mt-4 mr-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                        <i class="fas fa-arrow-right text-secondary"></i>
+                        <i class="fas fa-arrow-right text-secondary"></i></a>
                     </div>
                     <div class="program-icon-wrapper mb-4 relative">
                         <div class="absolute inset-0 bg-secondary opacity-0 group-hover:opacity-10 rounded-full transition-opacity duration-300"></div>
@@ -63,9 +63,9 @@
             <!-- Department Card 4 -->
             <div class="program-card bg-white rounded-lg shadow-lg overflow-hidden group" data-aos="fade-up" data-aos-delay="400">
                 <div class="bg-primary h-2 group-hover:bg-secondary transition-colors duration-300"></div>
-                <div class="p-6 relative">
+                <a href="section/department_detail.php?kode_departemen=ristek" class="block"><div class="p-6 relative">
                     <div class="absolute top-0 right-0 mt-4 mr-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                        <i class="fas fa-arrow-right text-secondary"></i>
+                        <i class="fas fa-arrow-right text-secondary"></i></a>
                     </div>
                     <div class="program-icon-wrapper mb-4 relative">
                         <div class="absolute inset-0 bg-secondary opacity-0 group-hover:opacity-10 rounded-full transition-opacity duration-300"></div>
